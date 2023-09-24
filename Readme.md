@@ -14,8 +14,8 @@ I'm Shubh Chaturvedi, an Application developer from India. Welcome to my GitHub 
 
 Here are some projects I'm working on or have contributed to:
 
-- [Project 1](link-to-project-1): Description of Project 1.
-- [Project 2](link-to-project-2): Description of Project 2.
+- [Tracking-react](https://github.com/ShubhChaturvedi/tracking-react): Description of Project 1.
+- [Tracking-Django](link-to-project-2): Description of Project 2.
 - [Project 3](link-to-project-3): Description of Project 3.
 
 ## Skills
