@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanishqsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanishqsoni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubh-chaturvedi1710/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubh-chaturvedi1710/" height="30" width="40" /></a>
 <a href="https://shubhchaturvedi.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://shubhchaturvedi.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/tanishqsoni24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tanishqsoni24/" height="30" width="40" /></a>
+<a href="https://leetcode.com/shubhchaturved_cs21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shubhchaturved_cs21/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
