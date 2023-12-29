@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Wallet Based System](https://new-mont.vercel.app/)
+- 🔭 I’m currently working on [Scalable chat system](https://www.github.com/ShubhChaturvedi/app.scally.chat/)
 
 - 🌱 I’m currently learning **Serverless Backend, GRPC, TRPC, TurboRepos**
 
